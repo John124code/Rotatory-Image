@@ -15,7 +15,7 @@ A visually engaging rotating image gallery built with HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Screenshot](Screenshot.png)
+![Screenshot](rotatryimg.png)
 
 ## License
 
